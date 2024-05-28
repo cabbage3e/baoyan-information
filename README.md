@@ -3,7 +3,6 @@
 >
 >发现一个好东西https://github.com/CS-BAOYAN/CSSummerCamp2024
 >
->大家快去！
 ----------------------------------------
 ## 环境
 python 3.8
